@@ -51,6 +51,9 @@ public class CacheConfiguration {
             createCache(cm, com.valensi.bookapp.domain.User.class.getName());
             createCache(cm, com.valensi.bookapp.domain.Authority.class.getName());
             createCache(cm, com.valensi.bookapp.domain.User.class.getName() + ".authorities");
+            createCache(cm, com.valensi.bookapp.domain.Book.class.getName());
+            createCache(cm, com.valensi.bookapp.domain.Shelf.class.getName());
+            createCache(cm, com.valensi.bookapp.domain.Shelf.class.getName() + ".books");
             // jhipster-needle-ehcache-add-entry
         };
     }

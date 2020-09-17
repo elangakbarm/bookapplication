@@ -1,0 +1,24 @@
+{
+  "bookapplicationApp": {
+    "shelf": {
+      "home": {
+        "title": "Shelves",
+        "createLabel": "Buat Shelf baru",
+        "createOrEditLabel": "Buat atau edit Shelf",
+        "notFound": "No Shelves found"
+      },
+      "created": "Shelf dengan id {{ param }} telah dibuat",
+      "updated": "Shelf dengan id {{ param }} telah diperbaharui",
+      "deleted": "Shelf dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Shelf {{ id }}?"
+      },
+      "detail": {
+        "title": "Shelf"
+      },
+      "number": "Number",
+      "desc": "Desc",
+      "book": "Book"
+    }
+  }
+}
