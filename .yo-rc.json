@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.valensi.bookapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "bookapplication",
+    "packageName": "com.valensi.bookapp",
+    "packageFolder": "com/valensi/bookapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTZjYWUyNjYyZGU4MTkyZWRjM2VhOTdhYjM2ZDllNDlkNDE4MTUxODM0N2QyYzE1ZmRkZjRlMjYyNzBiNDc1ZWYzOGI3NmQyYmM4ZTg4OTQwMjA1NTRjMmI5MGRlM2MzYTNjODQzZDI5MzZhNWNlMDE5ZDI0YTY0ZDMzMzhiZTU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1600338553749,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "in"],
+    "blueprints": []
+  }
+}
